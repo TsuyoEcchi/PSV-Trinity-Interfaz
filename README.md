@@ -3,14 +3,14 @@ Interfaz para el HAck de "The Flow - Trinity" que se **sirve para utilizar aplic
 
 ## Descarga 1.0.0.1: 
 Opcion 1: 
-
-  [Link](<https://t.co/VuHlrwtWg4>)
+- [Link App y Plugins](<https://t.co/VuHlrwtWg4>)
   
 Opcion 2: 
+- [Link App](<https://t.co/I0KLGJTx4m>)
+- [Link Plugins](<https://t.co/49SqzIRNHt>)
 
-  [Link](<https://t.co/I0KLGJTx4m>)
-  [Link](<https://t.co/49SqzIRNHt>)
-  
+## Descripción: 
+
 Este programa permite realizar el proceso de la inyección del Trinity en un juego de PSP o PSMini desde un respaldo de cuenta de PSVita.
 
 ## Instrucciones: 
