@@ -14,9 +14,9 @@ Este programa permite realizar el proceso de la inyección del Trinity en un jue
 
 ### Paso 1:
 
--De click en el Boton "Find Acount Backup Path" y busque la carpeta de su respaldo debe tener un formato como este "778cd6785efaf601".
+  -De click en el Boton "Find Acount Backup Path" y busque la carpeta de su respaldo debe tener un formato como este "778cd6785efaf601".
  
--Al seleccionar la carpeta el programa buscara automaticamente si contiene carpetas con respaldo de juegos, si solo tiene un juego iniciara el proceso automaticamente, de lo contrario le mostrara una ventana para que seleccione el o los juegos que desea parchar.
+  -Al seleccionar la carpeta el programa buscara automaticamente si contiene carpetas con respaldo de juegos, si solo tiene un juego iniciara el proceso automaticamente, de lo contrario le mostrara una ventana para que seleccione el o los juegos que desea parchar.
 
 ### Paso 2:
 
