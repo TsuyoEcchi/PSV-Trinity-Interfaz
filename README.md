@@ -22,6 +22,14 @@ Este programa permite realizar el proceso de la inyección del Trinity en un jue
 
 -Revise el LOG para asegurarse de que no haya ningun error, usted ya ha terminado de inyectar el Trinity.
 
+### CHANGELOG:
+
+#1.0.0.0
+-Primera version.
+
+#1.0.0.1
+-Agregada compatibilidad con respaldos con mas de 1 juego dentro la carpeta.
+
 ## Thanks To: 
 
 #TheOfficialFloW
