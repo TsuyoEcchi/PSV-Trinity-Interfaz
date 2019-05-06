@@ -1,5 +1,5 @@
 # PSV-Trinity-Interfaz
-Interfaz para el HAck de "The Flow - Trinity"
+Interfaz para el HAck de "The Flow - Trinity" que se **sirve para utilizar aplicaciones de terceros en la PS Vita** con firmware `3.69` y `3.70`.
 
 ## Descarga 1.0.0.1: 
 Opcion 1: 
