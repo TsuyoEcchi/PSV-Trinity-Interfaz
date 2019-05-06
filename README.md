@@ -21,3 +21,11 @@ Este programa permite realizar el proceso de la inyección del Trinity en un jue
 ### Paso 2:
 
 -Revise el LOG para asegurarse de que no haya ningun error, usted ya ha terminado de inyectar el Trinity.
+
+## Thanks To: 
+
+#TheOfficialFloW
+-https://github.com/TheOfficialFloW/Trinity
+
+#Yifan Lu
+-https://github.com/yifanlu/psvimgtools
